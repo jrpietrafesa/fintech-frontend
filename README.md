@@ -1,4 +1,4 @@
-# 💰 FinTech - Sistema de Gestão Financeira
+# 💰 Planejare FinTech - Sistema de Gestão Financeira
 
 Sistema completo de gestão financeira pessoal desenvolvido com Next.js 14 e TypeScript, integrado com backend Java.
 
@@ -22,15 +22,32 @@ O FinTech é uma aplicação web moderna para gerenciamento financeiro pessoal q
 - Definir e acompanhar metas financeiras
 - Visualizar dashboard com estatísticas
 
+![alt text](image.png)
+
+✅ O sistema funcionando
+✅ Todas as operações CRUD
+✅ As páginas Ver e Editar
+✅ O código no GitHub
+✅ A arquitetura do projeto
+
+## 🌐 LINKS DOS REPOSITÓRIOS:
+
+### 🔵 Backend:
+**https://github.com/jrpietrafesa/ProjetoFintechComBancoDeDados**
+
+### 🟢 Frontend:
+**https://github.com/jrpietrafesa/fintech-frontend**
+
 ## 🎯 Instruções de inicialização do projeto 
 (Backend).
 Acesse e clique em RUN no arquivo Application.java
-\src\main\java\br\com\fiap
-O Backend ficará ativo
+caminho: \src\main\java\br\com\fiap
+(O Backend ficará ativo em Spring Boot)
 
 (Frontend)
-1.	No VSCODE (Front End)
-Digite no terminal: npm run dev
+1.	No VSCODE (Front End) no Terminal
+1. Instale as dependências: npm install
+Após Digite no terminal: npm run dev
 3. Acesse: http://localhost:3000
 4. Faça login de teste:
 📧 Email: joao.silva@email.com
@@ -45,6 +62,21 @@ Digite no terminal: npm run dev
 - **Axios** - Cliente HTTP para consumo de APIs
 - **Context API** - Gerenciamento de estado global
 - **CSS-in-JS** - Estilização inline com React
+
+## ✨ Funcionalidades
+
+- 📊 Dashboard com estatísticas
+- 💳 Gestão de contas bancárias
+- 💰 Registro de transações
+- 🎯 Acompanhamento de metas
+- 📅 Formatação de datas e valores
+- 🔐 Sistema de login
+
+## 👨‍💻 Desenvolvido por
+
+Sídney Pietrafesa 
+RM RM562855
+Aluno de ADS - FIAP
 
 ## ✅ Requisitos Técnicos Atendidos
 
