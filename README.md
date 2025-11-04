@@ -74,8 +74,11 @@ Após Digite no terminal: npm run dev
 
 ## 👨‍💻 Desenvolvido por
 
-Sídney Pietrafesa 
-RM RM562855
+Sídney Pietrafesa - RM RM562855
+Elzo Othalo No de Souza - RM 565342
+Isadora Maciel - RM565318
+Danilo Rodrigues Aquino - RM565175
+
 Aluno de ADS - FIAP
 
 ## ✅ Requisitos Técnicos Atendidos
